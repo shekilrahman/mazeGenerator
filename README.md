@@ -5,7 +5,6 @@ This project is a simple maze generator implemented using the recursive backtrac
 ## Technologies Used
 
 - **HTML**: Used for setting up the structure of the web page.
-- **CSS**: Used for styling the web page and centering the canvas.
 - **JavaScript**: Used for implementing the maze generation algorithm and visualizing it.
 - **p5.js**: A JavaScript library used for creative coding, specifically for drawing the canvas and handling animations.
 
@@ -33,7 +32,6 @@ This project is a simple maze generator implemented using the recursive backtrac
 
 - `index.html`: The HTML file that sets up the canvas and includes the necessary scripts.
 - `main.js`: The JavaScript file that contains the maze generation logic and the `Cell` class.
-- `styles.css`: (Optional) CSS file for additional styling if needed.
 
 ## Getting Started
 
