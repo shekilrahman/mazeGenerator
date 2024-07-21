@@ -39,4 +39,4 @@ This project is a simple maze generator implemented using the recursive backtrac
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/maze-generator.git
+   git clone https://github.com/shekilrahman/mazeGenerator.git
