@@ -2,6 +2,10 @@
 
 This project is a simple maze generator implemented using the recursive backtracking algorithm. The maze is visualized using the `p5.js` library. The project includes an HTML file for setting up the canvas and a JavaScript file for the logic of the maze generation.
 
+## Demo
+
+Check out the live demo of the maze generator at [this link](https://shekilrahman.github.io/mazeGenerator/). The demo showcases the maze generation process and allows you to see the algorithm in action.
+
 ## Technologies Used
 
 - **HTML**: Used for setting up the structure of the web page.
